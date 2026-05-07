@@ -1,10 +1,19 @@
 # ServiceDesk Simulator Experience
 
 Platform: [ServiceDesk Simulator](https://servicedesk-simulator.com)  
-Accuracy: **100%**  
-Tickets Completed: **10**  
+Tickets Completed: **20+**  
+Accuracy: **90%+**  
 
 ---
+
+## Achievements Unlocked
+| Achievement | Description | Date |
+|-------------|-------------|------|
+| First Ticket | Resolved first ticket | May 6, 2026 |
+| Getting Started | Resolved 10 tickets | May 6, 2026 |
+| Speed Demon | Resolved a ticket in under 60 seconds | May 6, 2026 |
+| First Call | Completed first voice call | May 6, 2026 |
+| Sharpshooter | 90%+ accuracy over 20+ tickets | May 7, 2026 |
 
 ## Skills Practiced
 - Network switch and print server reboots
